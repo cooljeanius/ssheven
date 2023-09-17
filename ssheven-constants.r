@@ -1,4 +1,4 @@
-/* used as both a C and resource file include */
+/* used as both a C and resource file (Rez) include */
 
 #ifndef __SSHEVEN_CONSTANTS_R__
 #define __SSHEVEN_CONSTANTS_R__
