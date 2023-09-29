@@ -1,3 +1,5 @@
+/* -*- Rez -*- */
+
 #include "ssheven-constants.r"
 #include "ssheven-icons.r"
 
