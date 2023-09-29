@@ -1,3 +1,5 @@
+/* -*- Rez -*- */
+
 #include "Icons.r"
 
 /* use this regex to get rid of data comments: "            \/\*[^\*]*\*\/" */
