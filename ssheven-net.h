@@ -1,5 +1,5 @@
-/* 
- * ssheven
+/* -*- C -*-
+ * ssheven: ssheven-net.h
  * 
  * Copyright (c) 2021 by cy384 <cy384@cy384.com>
  * See LICENSE file for details
